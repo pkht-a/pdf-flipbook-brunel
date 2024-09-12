@@ -1,3 +1,9 @@
+# Brunel Programmes
+
+This is a fork of HiIamChaitanya/pdf-flipbook to provide Brunel Sinfonia programmes online using a PDF flipbook.
+
+It includes the content for the programmes for easy deployment for me.
+
 # PDF Flipbook
 
 https://pdfflipbook.vercel.app - Demo
